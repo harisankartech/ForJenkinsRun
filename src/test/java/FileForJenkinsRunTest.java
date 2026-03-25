@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class FileForJenkinsRun {
+public class FileForJenkinsRunTest {
 
     @Test
     public void Demo(){
